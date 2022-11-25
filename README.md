@@ -5,8 +5,10 @@
 Looking for contributors. Submit a pull request if you have something to add :)
 
 ## Overview
+1. [Whitepaper](https://docs.gearbox.finance/overview/whitepaper)
 1. [User docs](https://docs.gearbox.fi/)
 2. [Dev docs](https://dev.gearbox.fi/)
+3. [Play with Gearbox](https://github.com/Gearbox-protocol/play-with-gearbox)
 
 ## Smart Contracts
 1.  [Core-v1](https://github.com/Gearbox-protocol/gearbox-contracts/)
