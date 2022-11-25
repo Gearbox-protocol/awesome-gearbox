@@ -6,7 +6,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 
 ## Overview
 1. [User docs](https://docs.gearbox.fi/)
-2. 
+2. [Dev docs](https://dev.gearbox.fi/)
 
 ## Smart Contracts
 1.  [Core-v1](https://github.com/Gearbox-protocol/gearbox-contracts/)
