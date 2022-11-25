@@ -14,6 +14,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 1.  [Core-v1](https://github.com/Gearbox-protocol/gearbox-contracts/)
 2.  [Core-v2](https://github.com/Gearbox-protocol/core-v2/)
 3.  [Integrations](https://github.com/Gearbox-protocol/integrations-v2/)
+4.  Pathfinder
 
 ## Analytics
 1. Third Eye
@@ -33,4 +34,16 @@ Looking for contributors. Submit a pull request if you have something to add :)
 1. [Credit Account Mining Interface](https://github.com/Gearbox-protocol/credit-account-mining)
 2. [Ordinary dApp](?)
 3. [Gearbox Ninja](https://github.com/l3wi/gearbox-ninja)
+
+
+## Directions for Grants
+1. New Integrations: Adapters/LP tokens pricing/Pathfinder
+2. UX Experiments: 
+  - (idea) facilitate trading experience or even maybe create separate UI for margin traders
+  - (idea) open source self-hosting interface (for example, using [urbit](https://urbit.org/ and [uniswap](https://twitter.com/ajlamarc/status/1594508868427698178) as reference)
+3. Open source liquidations
+4. Analytics for retail
+  - (idea) special app so that users can play with numbers/simulate different scenarios (see https://uniswap.fish/ as reference)
+5. Trade Store (implement trading strategies that prevent liquidations etc)
+6. Growing community
 
