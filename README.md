@@ -40,7 +40,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 1. New Integrations: Adapters/LP tokens pricing/Pathfinder
 2. UX Experiments: 
   - (idea) facilitate trading experience or even maybe create separate UI for margin traders
-  - (idea) open source self-hosting interface (for example, using [urbit](https://urbit.org/ and [uniswap](https://twitter.com/ajlamarc/status/1594508868427698178) as reference)
+  - (idea) open source self-hosting interface (for example, using [urbit](https://urbit.org/) and [uniswap](https://twitter.com/ajlamarc/status/1594508868427698178) as reference)
 3. Open source liquidations
 4. Analytics for retail
   - (idea) special app so that users can play with numbers/simulate different scenarios (see https://uniswap.fish/ as reference)
