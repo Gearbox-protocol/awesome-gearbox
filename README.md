@@ -44,6 +44,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 3. Open source liquidations
 4. Analytics for retail
   - (idea) special app so that users can play with numbers/simulate different scenarios (see https://uniswap.fish/ as reference)
+  - theGraph subgraph (draft for v1 as example https://github.com/harsh-98/gearbox-graph)
 5. Trade Store (implement trading strategies that prevent liquidations etc)
 6. Growing community
 
