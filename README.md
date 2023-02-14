@@ -53,6 +53,7 @@ Looking for contributors. Submit a pull request if you have something to add :)
 
      - (idea) facilitate trading experience or even maybe create separate UI for margin traders
      - (idea) open source self-hosting interface (for example, using [urbit](https://urbit.org/), see [uniswap](https://twitter.com/ajlamarc/status/1594508868427698178) as reference)
+     - (idea) EPNS integration: get updates for Health Factor changes
 
 3. Open source liquidations
 
